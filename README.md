@@ -32,8 +32,8 @@ This project is an interactive visualization of global earthquake data, implemen
 
 ## Screenshot
 
-![Screenshot](https://github.com/MilkTaro798/Earthquake-Visualization/blob/main/screenshot1.png)
-![Screenshot](https://github.com/MilkTaro798/Earthquake-Visualization/blob/main/screenshot2.png)
+![Screenshot](https://github.com/MilkTaro798/Earthquake-Visualization/blob/main/Screenshot1.png)
+![Screenshot](https://github.com/MilkTaro798/Earthquake-Visualization/blob/main/Screenshot2.png)
 
 ## Running the Project
 
